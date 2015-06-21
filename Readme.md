@@ -1,6 +1,6 @@
 #Collection of Machine Learning Tutorials
 
-(ROC Curves)[http://blog.yhathq.com/posts/roc-curves.html]
+http://blog.yhathq.com/posts/roc-curves.html
 
 #Todo
 
