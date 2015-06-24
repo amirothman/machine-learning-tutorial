@@ -16,6 +16,7 @@ https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii
 
 # Pending 
 
+https://github.com/brandon-rhodes/pycon-pandas-tutorial
 http://nbviewer.ipython.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb
 https://github.com/donnemartin/data-science-ipython-notebooks
 http://peterroelants.github.io/posts/neural_network_implementation_part01/
